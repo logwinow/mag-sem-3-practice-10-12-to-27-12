@@ -18,4 +18,4 @@
 ![Задание на производственную практику](https://github.com/logwinow/mag-sem-3-practice-10-12-to-27-12/blob/main/zadanie.png?raw=true)
 
 * ### **Отчёт о прохождении производственной практики** 
-![Отчёт о прохождении производственной практики]()
+![Отчёт о прохождении производственной практики](https://github.com/logwinow/mag-sem-3-practice-10-12-to-27-12/blob/main/otchet.png?raw=true)
